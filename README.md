@@ -22,7 +22,7 @@ You will also require ```python-chesss``` module, for that:
 ```pip install python-chess```
 After this, you'll be ready to code!
 
-**P.S:** If you are **unable to open the code from the given Jupyter noebook file**, click [here.](https://colab.research.google.com/drive/1CZI1nQHwf4-eMNQ_YTjm_w569ld8HUkI?usp=sharing)
+**P.S:** If you are **unable to open the code from the given Jupyter notebook file**, click [here.](https://colab.research.google.com/drive/1CZI1nQHwf4-eMNQ_YTjm_w569ld8HUkI?usp=sharing)
 After that, copy+paste the code in your Jupyter Notebook.
 
 ## Input and Output
