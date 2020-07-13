@@ -36,4 +36,13 @@ All the moves you make will be represented on the GUI board *(opens in a separat
 * Python
 * Google Speech-to-Text API 
 
+## License
+
+This project is under the MIT License.
+
+## Authors
+
+* Kushagra Gupta
+* [Ishan Sethi](https://github.com/IshanSethi9)
+
 **Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kg1510/)**
