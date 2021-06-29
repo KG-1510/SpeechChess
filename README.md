@@ -6,7 +6,7 @@ A Python script written in Jupyter notebook to take input commands in the form o
 
 For running this script you'll need:
 * Jupyter Notebook
-* SpeechRecognition Module
+* Speech Recognition Module
 * PyAudio Module
 * Chess Module
 * PiP Installer
